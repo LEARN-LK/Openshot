@@ -1,5 +1,5 @@
 
-# ✂ **5. Editing Workflow – Step-by-Step in OpenShot**
+#  **5. Editing Workflow – Step-by-Step in OpenShot**
 
 This section covers the basic editing operations you'll use most often while working on a video project.
 
