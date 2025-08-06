@@ -29,7 +29,7 @@ Get started by downloading OpenShot for free from the official website: www.open
 
 1. [User Interface Overview](https://github.com/LEARN-LK/Openshot/blob/main/User-interface.md)
 2. [Starting a New Project & Importing Media ](https://github.com/LEARN-LK/Openshot/blob/main/NewProject%26Importing.md)
-3. [Editing Workflow]()
+3. [Editing Workflow](https://github.com/LEARN-LK/Openshot/blob/main/EnhancingVideo.md)
 4. [Enhancing Video]()
 5. [Exporting Video]()
 
