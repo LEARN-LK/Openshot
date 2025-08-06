@@ -2,6 +2,13 @@
 
 Once you launch OpenShot, here’s what you’ll see:
 
+
+
+
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/mainwindow-01.png" style="width: 700px;">
+
+
+
  | Area                                    | Description                                   |
  | --------------------------------------- | --------------------------------------------- |
  | **Main Toolbar  [1]**                        | New project, save, import files, export, undo |
