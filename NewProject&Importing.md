@@ -2,9 +2,19 @@
 ##  **3. Starting a New Project**
 
 1. Go to `File > New Project`.
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/new-project-1.png" style="width: 700px;">
+
+   
 2. Optional: Save the project via `File > Save Project As (.osp)`.
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/save-project-as-1.png" style="width: 700px;">
+
+   
 3. Set video resolution:
    `File > Choose Profile` → Select (e.g., *HD 1080p 30fps*).
+
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/chooce-profile-1.png" style="width: 700px;">
+ <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/choose-profile-2.png" style="width: 700px;">
+
 
 ---
 
