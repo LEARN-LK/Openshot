@@ -21,7 +21,13 @@
 ##  **4. Importing Media**
 
 1. Click the **`+` Import Files** button or drag files directly into the **Project Files** area.
+ <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/importfile-1.png" style="width: 700px;">
+
 2. Supported media: MP4, AVI, MOV, MP3, WAV, PNG, JPG, etc.
+   
 3. Drag imported files to the **Timeline**.
+ <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/drag-01.png" style="width: 700px;">
+
+
 
 ---
