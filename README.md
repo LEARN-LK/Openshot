@@ -28,9 +28,8 @@ OpenShot Video Editor is like your friendly, free video-editing buddy! It’s an
 Get started by downloading OpenShot for free from the official website: www.openshot.org/download/. Select your operating system (Windows, Mac, Linux, or ChromeOS), choose the appropriate 32-bit or 64-bit version, and follow the installation instructions.
 
 1. [User Interface Overview](https://github.com/LEARN-LK/Openshot/blob/main/User-interface.md)
-2. [Starting a New Project]()
-3. [Importing Media]()
-4. [Editing Workflow]()
-5. [Enhancing Video]()
-6. [Exporting Video]()
+2. [Starting a New Project & Importing Media ](https://github.com/LEARN-LK/Openshot/blob/main/NewProject%26Importing.md)
+3. [Editing Workflow]()
+4. [Enhancing Video]()
+5. [Exporting Video]()
 
