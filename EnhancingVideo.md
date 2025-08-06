@@ -8,7 +8,11 @@ This section covers the basic editing operations you'll use most often while wor
 ##  **A. Add Videos to Timeline**
 
 1. Import your video using **Import Files** or drag it into the **Project Files** panel.
+
+    <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/importfile-1.png" style="width: 500px;">
 2. Drag the video from **Project Files** into a **track on the Timeline** (e.g., Track 1).
+
+    <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/drag-01.png" style="width: 500px;">
 3. You can layer multiple videos on different tracks if needed.
 
 ---
