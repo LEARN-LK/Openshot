@@ -21,13 +21,23 @@ This section covers the basic editing operations you'll use most often while wor
 
 ### Method 1: **Trim by dragging**
 
-* Hover over the **start or end** of a video clip.
+* Hover over the **start or end  [↔]** of a video clip.
+
+   <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/trim-01.png" style="width: 500px;">
 * Click and **drag inward** to shorten the clip (trim the edges).
+
+   <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/trim-02.png" style="width: 500px;">
+    <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/trim-03.png" style="width: 500px;">
 
 ### Method 2: **Clip using Razor Tool**
 
 * Select the **Razor Tool** (scissors icon) from the toolbar.
-* Click on the video clip at the point where you want to **split** it.
+
+ <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/trim-scissors-04.png" style="width: 500px;">
+  * Click on the video clip at the point where you want to **split** it.
+
+   <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/trim-03.png" style="width: 500px;">
+
 * You can delete or move each segment individually.
 
 ---
