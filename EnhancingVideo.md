@@ -48,6 +48,8 @@ This section covers the basic editing operations you'll use most often while wor
 * You can **drag clips between tracks** (e.g., move from Track 2 to Track 1).
 * Use **snap** (enabled by default) to automatically align clips with precision.
 
+  <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/reposition-01.png" style="width: 500px;">
+
 ---
 
 ##  **D. Adjust Clip Length**
