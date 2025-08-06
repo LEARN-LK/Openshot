@@ -46,7 +46,6 @@ This section covers the basic editing operations you'll use most often while wor
 
 * Click and **drag any clip** along the timeline to move it.
 * You can **drag clips between tracks** (e.g., move from Track 2 to Track 1).
-* Use **snap** (enabled by default) to automatically align clips with precision.
 
   <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/reposition-01.png" style="width: 500px;">
 
@@ -56,7 +55,9 @@ This section covers the basic editing operations you'll use most often while wor
 
 * Hover over either edge of a clip.
 * Drag left or right to **shorten** or **extend** the duration of that clip on the timeline.
-* Use the **zoom** slider (below the timeline) to zoom in for precise editing.
+
+   <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/shortenorextend-1.png" style="width: 500px;">
+
 
 ---
 
