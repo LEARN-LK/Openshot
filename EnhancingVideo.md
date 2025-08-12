@@ -87,25 +87,37 @@ This section covers the basic editing operations you'll use most often while wor
 
 * Open your video project in OpenShot.
 * Import your video file if you haven't already, then drag it onto the timeline.
-  <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/importfile-1.png" style="width: 500px;">
+
+  <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/importfile-1.png" style="width: 700px;">
 
 ### Step 2: Apply the Caption Effect
 
-* Open the **Effects** panel (if not visible, enable it via `View > Views > Effects`).
-* Locate the **Caption** effect and **drag it onto your video clip** on the timeline.
+* Open the **Effects [3]** panel (if not visible, enable it via `View > Views > Effects`).
+* Locate the **Caption [4]** effect and **drag it onto your video clip [5]** on the timeline.
  
 ### **Step 3 – Open and Edit the Caption Text (with Accurate Timing)**
 
 1. **Right-click** on the video clip that has the **Caption** effect applied.
+
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/sub-1.png" style="width: 700px;">
+
 2. Select **Edit Caption** (or a similar option depending on your OpenShot version).
-3. A **caption editor** will open where you can type in your subtitle or caption text.
+
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/sub-2.png" style="width: 700px;">
+
+3. A **caption editor [7]** will open where you can type in your subtitle or caption text.
+
+
 4. To create subtitles:
 
    * Carefully **listen to the video** and note the **start** and **end times** for each line of dialogue or narration.
    * Type the subtitle text for the first line.
-5. **Click the “+” icon** in the caption editor to add another **time slot** for the next subtitle.
+5. **Click the “+” icon  [7]** in the caption editor to add another **time slot** for the next subtitle.
+
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/sub-3.png" style="width: 700px;">
+
 6. Play the video and identify the **start** and **end time** for the next line of speech.
-7. Enter the subtitle text and adjust the start/stop times precisely.
+7. Enter the **subtitle text and adjust the start/stop times   [8]** precisely.
 8. Repeat this process for all lines until your video is fully captioned.
 
 ---
@@ -147,7 +159,7 @@ You can't be too careful when you are only 12 inches tall.
 ```
 
 ---
- ** Tips:**
+ **Tips:**
 
 * Keep each subtitle **short and readable** (usually 1–2 lines max).
 * Give viewers **at least 1–1.5 seconds** to read each caption.
