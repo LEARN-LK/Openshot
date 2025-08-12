@@ -81,13 +81,129 @@ This section covers the basic editing operations you'll use most often while wor
 
 ---
 
-##  **F. Add Subtitles (Text Overlays)**
+##  **F. How to Add Subtitles (Captions) in OpenShot**
 
-1. Go to `Title > Title...`
-2. Choose a title template (e.g., Lower Third, Simple Title).
-3. Enter your subtitle text and save.
-4. Drag the created title from **Project Files** onto a **track above the video** (e.g., Track 2).
-5. Adjust the position and duration to sync with the speech or scene.
+### Step 1: Import and Place Your Video
+
+* Open your video project in OpenShot.
+* Import your video file if you haven't already, then drag it onto the timeline.
+  <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/importfile-1.png" style="width: 500px;">
+
+### Step 2: Apply the Caption Effect
+
+* Open the **Effects** panel (if not visible, enable it via `View > Views > Effects`).
+* Locate the **Caption** effect and **drag it onto your video clip** on the timeline.
+ 
+### **Step 3 – Open and Edit the Caption Text (with Accurate Timing)**
+
+1. **Right-click** on the video clip that has the **Caption** effect applied.
+2. Select **Edit Caption** (or a similar option depending on your OpenShot version).
+3. A **caption editor** will open where you can type in your subtitle or caption text.
+4. To create subtitles:
+
+   * Carefully **listen to the video** and note the **start** and **end times** for each line of dialogue or narration.
+   * Type the subtitle text for the first line.
+5. **Click the “+” icon** in the caption editor to add another **time slot** for the next subtitle.
+6. Play the video and identify the **start** and **end time** for the next line of speech.
+7. Enter the subtitle text and adjust the start/stop times precisely.
+8. Repeat this process for all lines until your video is fully captioned.
+
+---
+
+### **Example: Provided Video Timing & Subtitles**
+
+Here’s an example timecoded subtitle sequence based on the reference video:
+
+```
+00:00:10:000 --> 00:00:12:000
+This male Arctic Fox
+
+00:00:12:733 --> 00:00:15:000
+Has spent the last six months
+
+00:00:17:333 --> 00:00:18:000
+Alone
+
+00:00:19:000 --> 00:00:23:066
+He really goes the distance
+
+00:00:23:066 --> 00:00:25:633
+When food is in short supply
+
+00:00:26:666 --> 00:00:31:066
+One even clocked more than a thousand miles
+
+00:00:31:066 --> 00:00:32:733
+In just over two months.
+
+00:00:37:733 --> 00:00:39:666
+This little guy
+
+00:00:39:666 --> 00:00:42:700
+Has been surviving off his street smarts.
+
+00:00:49:700 --> 00:00:53:933
+You can't be too careful when you are only 12 inches tall.
+```
+
+---
+ ** Tips:**
+
+* Keep each subtitle **short and readable** (usually 1–2 lines max).
+* Give viewers **at least 1–1.5 seconds** to read each caption.
+* Adjust timing so that subtitles appear **just before the speech starts** and disappear **right after it ends**.
+
+---
+
+
+### Step 4: Customize Font, Size & Color
+
+* Within the Caption editor, adjust:
+
+  * **Font type**
+  * **Font size**
+  * **Font color**
+* These settings will apply to the entire caption block.
+  
+### Step 5: Adjust Timing for Each Caption
+
+* Set the **start and end times** so that the caption appears at the right moment in your video.
+* If you need different style elements (e.g. color, font) for separate lines, add **multiple Caption effects**—each with its own timing and properties.
+
+---
+
+##  Tips 
+
+> “There is a Caption effect in the Effect tab that you can drag and drop on your video clip to add Captions.”
+
+> “If you would like to change the color, font, etc., in different spots in your video, you can add multiple Caption effects to the same clip. You just have to manage the times and content of each Caption separately.”
+)
+
+---
+
+### Summary Table
+
+| Step | Action                                                  |
+| ---- | ------------------------------------------------------- |
+| 1    | Import your video and add it to the timeline.           |
+| 2    | Apply the Caption effect from the Effects panel.        |
+| 3    | Right-click → Edit Caption and enter your text.         |
+| 4    | Customize font, size, and color for the subtitle block. |
+| 5    | Set correct timing for appearance on the timeline.      |
+| 6    | For stylistic variations, use multiple Caption effects. |
+
+---
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
