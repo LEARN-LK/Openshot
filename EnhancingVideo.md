@@ -63,10 +63,21 @@ This section covers the basic editing operations you'll use most often while wor
 
 ##  **E. Add Effects to Clips**
 
-1. Go to `View > Views > Effects` or use the **Effects tab**.
-2. Drag an effect (e.g., **Blur**, **Brightness**, **Chroma Key**) onto a video or image clip.
-3. Right-click the clip > **Properties** to tweak the effect parameters.
-4. To remove an effect, right-click > Remove Effect.
+1. Go to `View > Views > Effects` or use the **Effects tab [1]**.
+
+ <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/effects-1.png" style="width: 500px;">
+
+2. Drag an effect (e.g., **Blur**, **Brightness**, **Chroma Key [2]**) onto a video or image clip.
+
+ <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/effects-2.png" style="width: 500px;">
+
+3. **Right-click the clip [3] [4]** > **Properties [5]** to tweak the effect parameters.
+
+ <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/effects-3.png" style="width: 500px;">
+
+4. To remove an effect, **right-click [6]** > Remove Effect **[7]**.
+
+   <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/effect-4.png" style="width: 500px;">
 
 ---
 
