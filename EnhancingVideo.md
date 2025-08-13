@@ -177,7 +177,7 @@ You can't be too careful when you are only 12 inches tall.
   * **Font color [1]**
 * These settings will apply to the entire caption block.
 
-<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/caption-1.png" style="width: 400px;">
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/caption-1.png" style="width: 300px;">
   
 ### Step 5: Adjust Timing for Each Caption
 
