@@ -210,30 +210,7 @@ You can't be too careful when you are only 12 inches tall.
 
 
 
-
-
-
-
-
-
-
-
-
----
-
-##  **G. Divide Video into Sections**
-
-1. Use the **Razor Tool** to cut the video into different sections.
-2. Each section becomes a separate clip.
-3. You can:
-
-   * Move, rearrange, or delete individual sections.
-   * Add **transitions** between them (drag from Transitions tab).
-   * Apply different effects to each section.
-
----
-
-##  **H. Add Images to Video**
+##  **G. Add Images to Video**
 
 1. Import images (PNG, JPG) using the **Import Files** button.
 2. Drag the image onto the **Timeline**, typically above the video track (e.g., Track 2 or 3).
