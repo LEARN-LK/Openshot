@@ -1,37 +1,41 @@
-Here’s a clear, detailed step-by-step guide for **7. Exporting Video** in OpenShot:
-
----
 
 ## **7. Exporting Video**
 
 ### Step 1 – Open the Export Window
 
-* Click the **Export Video** button in the top toolbar
+* Click the **Export Video  [1]** button in the top toolbar
   *(shortcut: red circle with an arrow)*
-* Or go to **File → Export Video**.
 
----
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/export-0.1.png" style="width: 500px;">
+
+* Or go to **File [2] → Export Project [3] → Export Video [4]**.
+
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/export-0.png" style="width: 500px;">
+
 
 ### Step 2 – Choose Export Location
 
-* In the **File Path** field, select where the final video will be saved.
-* Give your video file a **name**.
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/export-1.png" style="width: 500px;">
+
+* In the **File Path [6]** field, select where the final video will be saved.
+* Give your video file a **name [5]**.
 
 ---
 
-### Step 3 – Set Video Profile
+### Step 3 – Set Video Profile [7]
 
-* Under **Target**, choose where you’ll use the video:
+* Under **Profile [7]**, choose where you’ll use the video:
 
   * **Default / YouTube / Vimeo / DVD** etc.
-* Under **Profile**, select a resolution and frame rate (e.g., **HD 1080p 30fps**, **4K 60fps**).
+1* Under **Profile**, select a resolution and frame rate (e.g., **HD 1080p 30fps**, **4K 60fps**).
 
 ---
 
 ### Step 4 – Choose Format & Quality
 
-* **Video Format**: MP4 (recommended), AVI, MOV, MKV, etc.
-* **Quality**:
+* **Video Format  TARGET: [8]**: MP4 (recommended), AVI, MOV, MKV, etc.
+* **Video Profile [9]** : eg:HD 720p 30fps(1280x720)
+* **Quality** **[10]**:
 
   * *Low* – Small file size, lower quality
   * *Medium* – Balanced
@@ -40,6 +44,8 @@ Here’s a clear, detailed step-by-step guide for **7. Exporting Video** in Open
 ---
 
 ### Step 5 – Advanced Settings (Optional)
+
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/export-2.png" style="width: 500px;">
 
 If you want more control:
 
@@ -54,23 +60,10 @@ If you want more control:
 
 ### Step 6 – Export the Video
 
-* Click **Export Video**.
+* Click **Export Video [12]**.
 * A progress bar will appear at the bottom right.
 * Wait until it finishes (time depends on video length & PC speed).
 
 ---
 
-### Step 7 – Verify the Output
 
-* Go to the folder where you saved the file.
-* Play the video to ensure:
-
-  * Quality is as expected
-  * Audio is in sync
-  * No missing effects or titles
-
----
-
-If you like, I can also make a **combined full OpenShot Guide** with
-**Introduction → UI → Editing Workflow → Enhancing → Exporting** in one continuous flow so it’s training-ready.
-Do you want me to prepare that?
