@@ -212,11 +212,23 @@ You can't be too careful when you are only 12 inches tall.
 
 ##  **G. Add Images to Video**
 
-1. Import images (PNG, JPG) using the **Import Files** button.
-2. Drag the image onto the **Timeline**, typically above the video track (e.g., Track 2 or 3).
-3. Adjust the image duration by dragging its ends.
-4. Use right-click > **Transform** to resize or reposition the image.
-5. Optionally, add effects like fade-in/out or animation with keyframes.
+
+**Import and Add Images**
+
+1. **Import Images** – Use the **file [1] > Import Files [2]** button to bring in PNG or JPG images.
+
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/image-1.png" style="width: 300px;">
+  
+2. **Place on Timeline ** – Drag the **image [3]** onto the timeline, usually on a track above the video (e.g., Track 2 or Track 3).
+
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/image-2.png" style="width: 300px;">
+
+3. **Adjust Duration** – Right-click on the image **[4]** → **Properties [5]** → **Duration   [6]**, then edit the length of time the image is shown.
+
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/image-3.png" style="width: 300px;">
+
+4. **Add Transitions [7]** – Open the transitions panel, select a transition (e.g., **Fade  [8]**), then drag it onto the beginning or end of the **image clip  [9]**.
 
 ---
+
 
