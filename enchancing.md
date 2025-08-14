@@ -38,4 +38,3 @@
 
 ---
 
-If you like, I can now **combine Editing Workflow + Enhancing Video** into one smooth section so it’s ready for your guide.
