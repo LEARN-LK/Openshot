@@ -232,3 +232,43 @@ You can't be too careful when you are only 12 inches tall.
 ---
 
 
+## **H. Adjust Audio in OpenShot**
+
+### **1. Access Audio Properties**
+
+* In the **Timeline [1]**, right-click **either**:
+
+  * The **separate audio track** ,**[2]** **or**
+  * **Single Clip (all channerls) [3]**
+  * A video clip that contains audio.
+* From the menu, choose **Properties**.
+* The **Properties** panel will appear (usually on the left side).
+
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/audio-1.png" style="width: 400px;">
+---
+
+### **2. Change Volume**
+
+* In the **Properties** panel, look for **Volume (Percent) [5]**.
+* Default is **1.0** (100%).
+* To increase volume: Enter a value above `1.0` (e.g., `1.5` for 150%).
+* To decrease volume: Enter a value below `1.0` (e.g., `0.5` for 50%).
+
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/audio-2.png" style="width: 400px;">
+---
+
+### **3. Add Fade In / Fade Out**
+
+**Using Properties Panel**
+
+1. * In the **Timeline [8]**, right-click
+   * Select **fade [9]**
+   * Select **start of Clip/End of Clip [10]**
+   * **Fade In (Seconds) [11]** – Set how long the sound takes to start from silence.
+   * **Fade Out (Seconds) [12]** – Set how long the sound fades to silence at the end.
+
+<img src="https://github.com/LEARN-LK/Openshot/blob/main/img/audio-3.png" style="width: 400px;">
+
+---
+
+
