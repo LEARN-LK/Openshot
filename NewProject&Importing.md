@@ -1,3 +1,12 @@
+##  Resources
+
+You can download the **sample video** and **image files** used in this guide from the following link:
+**[Download Resources](https://drive.google.com/drive/folders/1ZYJGMkEMnp1zlUR6LgE3N-ePGXk9moRJ?usp=drive_link)**
+
+
+
+---
+
 
 ##  **3. Starting a New Project**
 
