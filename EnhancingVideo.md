@@ -200,6 +200,57 @@ You can't be too careful when you are only 12 inches tall.
 நீங்கள் 12 அங்குல உயரம் மட்டுமே இருக்கும்போது மிகவும் கவனமாக இருக்க முடியாது.
 ```
 
+**Preview:**
+
+Play to ensure subtitles appear at the correct times and positions.
+
+
+<!--
+Note: The exported video will have all subtitles (e.g., English and German) hardcoded, displayed simultaneously as styled in OpenShot. You cannot select or toggle subtitles during playback in this format.
+Selecting Multiple Subtitles During Playback
+OpenShot does not support exporting videos with multiple selectable subtitle tracks (e.g., like DVDs or streaming platforms where you can choose languages). The Caption effect and title clips are burned into the video. To achieve selectable subtitles during playback, you need external tools. Here are two workarounds:
+Workaround 1: Export Separate Videos for Each Language
+-->
+
+### Workaround 2: Use External Tools for Selectable Subtitles
+
+**Export Subtitles as SRT Files:**
+
+OpenShot doesn’t directly export SRT files from the Caption effect, but you can manually copy timestamps and text from the Captions Editor into a text editor.
+Format as **SRT** (example):1
+
+
+```
+00:00:10:000 --> 00:00:12:000
+This male Arctic Fox
+
+00:00:12:733 --> 00:00:15:000
+Has spent the last six months
+
+00:00:17:333 --> 00:00:18:000
+Alone.
+```
+Save as **“English.srt”**. Repeat for German subtitles **(e.g., “Tamil.srt”).**
+
+* Export Video Without Subtitles:
+  - Remove all Caption effects or title clips from the timeline.
+  - Export the video as described above (e.g., “Video_NoSubtitles.mp4”).
+
+<!--
+Use a Tool to Add Selectable Subtitles:
+
+HandBrake: Open the video in HandBrake, go to the Subtitles tab, import “English.srt” and “German.srt” as separate tracks, and re-encode the video. The output (e.g., MP4 or MKV) will have selectable subtitle tracks.
+VLC Media Player: Play the video in VLC, go to Subtitle > Add Subtitle File, and load “English.srt” or “German.srt”. Viewers can switch subtitles via Subtitle > Sub Track during playback.
+FFmpeg: Use a command like:ffmpeg -i Video_NoSubtitles.mp4 -vf subtitles=English.srt:force_style='FontName=Arial,FontSize=24' -c:v copy -c:a copy Video_English.mp4
+
+Repeat for German. For selectable tracks, use:ffmpeg -i Video_NoSubtitles.mp4 -i English.srt -i German.srt -c:v copy -c:a copy -c:s mov_text -metadata:s:s:0 language=eng -metadata:s:s:1 language=ger Video_WithSubtitles.mp4
+
+Playback with Selectable Subtitles:
+
+In players like VLC, MPC-HC, or streaming platforms (e.g., YouTube, if uploaded), viewers can select the subtitle language (e.g., English or German) via the player’s subtitle menu.
+
+-->
+
 
  **Tips:**
 
