@@ -88,7 +88,12 @@ This section covers the basic editing operations you'll use most often while wor
 * Open your video project in OpenShot.
 * Import your video file if you haven't already, then drag it onto the timeline.
 
-  <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/importfile-1.png" style="width: 700px;">
+  <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/importfile-1.png" style="width: 500px;">
+* Show Audio Waveform for Timing:
+  - Right-click your video clip in the timeline.
+  - Select Display > Show Waveform to see the audio waveform, helping you time subtitles accurately.
+ <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/audioware.png" style="width: 500px;">
+
 
 ### Step 2: Apply the Caption Effect
 
