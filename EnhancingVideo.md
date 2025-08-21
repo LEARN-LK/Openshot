@@ -81,7 +81,9 @@ This section covers the basic editing operations you'll use most often while wor
 
 ---
 
-##  **F. How to Add Subtitles (Captions) in OpenShot**
+##  **F. How to Add Multi-Subtitles (Captions) in OpenShot**
+
+### Add the First Caption Effect (e.g., English Subtitles):
 
 ### Step 1: Import and Place Your Video
 
@@ -98,11 +100,11 @@ This section covers the basic editing operations you'll use most often while wor
 ### Step 2: Apply the Caption Effect
 
 * Open the **Effects [3]** panel (if not visible, enable it via `View > Views > Effects`).
-* Locate the **Caption [4]** effect and **drag it onto your video clip [5]** on the timeline.
+* Locate the **Caption [4]** effect and **drag it onto your video clip / audio waveform [5]** on the timeline.
  
 ### **Step 3 – Open and Edit the Caption Text (with Accurate Timing)**
 
-1. **Right-click** on the video clip that has the **Caption** effect applied.
+1. **Right-click** on the video clip/audio waveform that has the **Caption** effect applied.
 
 <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/sub-1.png" style="width: 700px;">
 
@@ -111,7 +113,6 @@ This section covers the basic editing operations you'll use most often while wor
 <img src="https://github.com/LEARN-LK/Openshot/blob/main/img/sub-2.png" style="width: 700px;">
 
 3. A **caption editor [7]** will open where you can type in your subtitle or caption text.
-
 
 4. To create subtitles:
 
@@ -164,6 +165,42 @@ You can't be too careful when you are only 12 inches tall.
 ```
 
 ---
+
+### Add the Second Caption Effect (e.g., Tamil Subtitles):
+
+1. Add a Second Caption Effect (e.g., Tamil Subtitles):
+2. Drag another Caption effect onto the same video clip. A second “C” icon appears.
+3. Click the new “C” icon, ensuring the playhead is at the clip’s start.
+4. Style differently to distinguish (e.g., blue text, white background, Top Size of 0.7 to place above English subtitles).
+5. In the Captions Editor, copy the timestamps from the English captions (to match timing) and replace the text with translations .
+6. Repeat for all dialogue lines
+
+
+```
+
+00:00:10:000 --> 00:00:12:000
+இந்த ஆண் ஆர்க்டிக் நரி
+00:00:12:733 --> 00:00:15:000
+கடந்த ஆறு மாதங்களை கழித்துள்ளது
+00:00:17:333 --> 00:00:18:000
+தனியாக
+00:00:19:000 --> 00:00:23:066
+அவர் உண்மையில் தூரம் செல்கிறார்
+00:00:23:066 --> 00:00:25:633
+உணவு பற்றாக்குறை இருக்கும்போது
+00:00:26:666 --> 00:00:31:066
+ஒருவர் ஆயிரம் மைல்களுக்கு மேல் பயணம் செய்தார்
+00:00:31:066 --> 00:00:32:733
+வெறும் இரண்டு மாதங்களுக்கும் மேலாக.
+00:00:37:733 --> 00:00:39:666
+இந்தச் சின்னப் பையன்
+00:00:39:666 --> 00:00:42:700
+அவரது தெரு புத்திசாலித்தனத்தால் தப்பிப்பிழைத்து வருகிறார்.
+00:00:49:700 --> 00:00:53:933
+நீங்கள் 12 அங்குல உயரம் மட்டுமே இருக்கும்போது மிகவும் கவனமாக இருக்க முடியாது.
+```
+
+
  **Tips:**
 
 * Keep each subtitle **short and readable** (usually 1–2 lines max).
